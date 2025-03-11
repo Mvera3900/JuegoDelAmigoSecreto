@@ -9,6 +9,7 @@
     
     
     ## Se pondrá en práctica:
-       - Funciones: Se implementa una función que permite al usuario ingresar un nombre en el campo de texto. Al hacer click en botón sortear amigo debe elegir un nombre                aleatorio desde la lista y mostrarlo en pantalla.
-       - Arrays: añadir los nombre a la lista de amigos creada anteriormente.
-       - Condicionales: Validar los nombres ingresados, si ingresa vacio se debe solicitar que ingrese un nombre válido a travéz de un Alert.
+       * Funciones: Se implementa una función que permite al usuario ingresar un nombre en el campo de texto. 
+         Al hacer click en botón sortear amigo debe elegir un nombre aleatorio desde la lista y mostrarlo en pantalla.
+       * Arrays: añadir los nombre a la lista de amigos creada anteriormente.
+       * Condicionales: Validar los nombres ingresados, si ingresa vacio se debe solicitar que ingrese un nombre válido a travéz de un Alert.
